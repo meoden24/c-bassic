@@ -1,10 +1,10 @@
-#include <bits/stdc++.h> // KI?M TRA KH‘NG –U?C DŸNG THU VI?N N¿Y
+#include <bits/stdc++.h> // KI?M TRA KH√îNG √êU?C D√ôNG THU VI?N N√ÄY
 
 
 int main() 
 {
 		FILE *fp;
-		//m? t?p tin d? ghi
+		//m·ªü t·∫≠p tin ƒë·ªÉ ghi
 		fp= fopen("C:\INPUT.txt","w");
 		if(fp==NULL)
 		{
@@ -19,10 +19,10 @@ int main()
 		
 		
 	
-		// m? t?p tin d? d?c
-		// T?O 1 FILE VAN B?N ? ? C cÛ tÍn l‡ INPUT.TXT
+		// m·ªü t·∫≠p tin ƒë·ªÉ ƒë·ªçc
+		
 		fp= fopen("C:\INPUT.txt","r");
-		// in ra m‡n hÏnh
+		// in ra m√†n h√¨nh
 		
 			char so[200];
 		printf("Du lieu vua nhap vao file la: ");
